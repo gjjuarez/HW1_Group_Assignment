@@ -1,0 +1,5 @@
+–Student C updates one file, while student B updates the same file in the same location. Student C pushes. Student B pushes. What happens?
+
+After student C pushes then student B tries to push, student B will encounter a message stating that the push was rejected. 
+The alert box gave the option to either "cancel" , "merge" or "rebase". 
+
