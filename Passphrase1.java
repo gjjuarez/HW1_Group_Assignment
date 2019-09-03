@@ -11,7 +11,7 @@ public class Passphrase1 {
         System.out.println("will release the Z-virus into the world. Our only hope is to diffuse the triggering mechanism by entering a");
         System.out.println("5 passphrase sequence. The world is in danger unless you (yes you, the cs5375 slave) discover the ");
         System.out.println("5 passphrases before all of earth is taken over by flesh eating chickens... :(");
-        System.out.println();
+        System.out.println("Oh no a virus!!");
         System.out.println("Please help! Now what about the 2nd?");
 	}
 	
